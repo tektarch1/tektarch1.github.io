@@ -43,10 +43,10 @@ body {
 }
 .display-5 {
   font-family: 'Oxygen', sans-serif;
-  font-size: 1.5rem;
+  font-size: 1rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 2.4rem;
+  font-size: 1.6rem;
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
@@ -77,9 +77,9 @@ body {
     line-height: calc( 1.4 * (0.895rem + (0.7 - 0.895) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.2rem;
-    font-size: calc( 1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.8rem;
+    font-size: calc( 1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -2387,6 +2387,9 @@ body {
 .cid-rBXcWhKkSu blockquote {
   color: #767676;
 }
+.cid-rBXcWhKkSu .mbr-text P {
+  text-align: center;
+}
 .cid-rBXdqhPsSy {
   background: #ffffff;
   padding-top: 0px;
@@ -2431,6 +2434,9 @@ body {
 .cid-rBXeJHJvJh blockquote {
   color: #767676;
 }
+.cid-rBXeJHJvJh .mbr-text P {
+  text-align: center;
+}
 .cid-rBXeQJjZRx {
   padding-top: 0px;
   padding-bottom: 15px;
@@ -2453,6 +2459,9 @@ body {
 .cid-rBXfPuuYi0 .mbr-text,
 .cid-rBXfPuuYi0 blockquote {
   color: #767676;
+}
+.cid-rBXfPuuYi0 .mbr-text P {
+  text-align: center;
 }
 .cid-rBXg4CGLet {
   padding-top: 0px;
