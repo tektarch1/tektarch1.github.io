@@ -1752,26 +1752,26 @@ body {
   font-size: 96px;
   color: #149dcc;
 }
-.cid-rFbQp1WTC8 {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
+.cid-rFbSReTXrA {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
 }
-.cid-rFbQp1WTC8 .mbr-slider .carousel-control {
+.cid-rFbSReTXrA .mbr-slider .carousel-control {
   background: #1b1b1b;
 }
-.cid-rFbQp1WTC8 .mbr-slider .carousel-control-prev {
+.cid-rFbSReTXrA .mbr-slider .carousel-control-prev {
   left: 0;
   margin-left: 2.5rem;
 }
-.cid-rFbQp1WTC8 .mbr-slider .carousel-control-next {
+.cid-rFbSReTXrA .mbr-slider .carousel-control-next {
   right: 0;
   margin-right: 2.5rem;
 }
-.cid-rFbQp1WTC8 .mbr-slider .modal-body .close {
+.cid-rFbSReTXrA .mbr-slider .modal-body .close {
   background: #1b1b1b;
 }
-.cid-rFbQp1WTC8 .mbr-gallery-item > div::before {
+.cid-rFbSReTXrA .mbr-gallery-item > div::before {
   content: '';
   position: absolute;
   left: 0;
@@ -1782,15 +1782,15 @@ body {
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
+  background: linear-gradient(to left, #554346, #d93f1d) !important;
 }
-.cid-rFbQp1WTC8 .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+.cid-rFbSReTXrA .mbr-gallery-item > div:hover .mbr-gallery-title::before {
   background: transparent !important;
 }
-.cid-rFbQp1WTC8 .mbr-gallery-item > div:hover:before {
-  opacity: 0.7 !important;
+.cid-rFbSReTXrA .mbr-gallery-item > div:hover:before {
+  opacity: 0.2 !important;
 }
-.cid-rFbQp1WTC8 .mbr-gallery-title {
+.cid-rFbSReTXrA .mbr-gallery-title {
   font-size: .9em;
   position: absolute;
   display: block;
@@ -1800,7 +1800,7 @@ body {
   color: #fff;
   z-index: 2;
 }
-.cid-rFbQp1WTC8 .mbr-gallery-title:before {
+.cid-rFbSReTXrA .mbr-gallery-title:before {
   content: " ";
   width: 100%;
   height: 100%;
@@ -1809,10 +1809,10 @@ body {
   z-index: -1;
   position: absolute;
   background: #554346 !important;
-  opacity: 0.7;
+  opacity: 0.2;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
+  background: linear-gradient(to left, #554346, #d93f1d) !important;
 }
 .cid-rzHmhKDChg {
   padding-top: 90px;
