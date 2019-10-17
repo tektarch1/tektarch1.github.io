@@ -46,7 +46,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 47,
+    "uniqCompNum": 48,
     "versionPublish": "4.10.7",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -648,10 +648,9 @@
               }
             }
           },
-          "_name": "gallery2",
-          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#554346\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#d93f1d\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"2\" mbr-gallery-show-text></div>\n    </div>\n\n</section>",
-          "_cid": "rzHsGW2S7C",
-          "_anchor": "gallery2-j",
+          "_name": "gallery3",
+          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#554346\">\n        <input type=\"checkbox\" title=\"Gradient Overlay\" name=\"gradOverlay\" checked>\n        <input type=\"color\" title=\"Overlay Color 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Overlay Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\"></div>\n    </div>\n\n</section>",
+          "_cid": "rFbEl7e6kK",
           "_protectedParams": [
             "text_all",
             "gallery__filtersTextStyle",
@@ -661,25 +660,25 @@
           "_global": false,
           "_once": false,
           "_params": {
-            "text_all": "PROJETOS SELECIONADOS",
+            "text_all": "All",
             "gallery__filtersTextStyle": "display-7",
-            "gallery__filtersBtnStyle": "btn-secondary",
+            "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
               {
-                "tags": "APARTAMENTO VM-COZINHA",
+                "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/a1-1500x1071.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/a1-1500x1071-800x571.jpg",
                 "alt": "",
-                "title": "PROJETO",
+                "title": "",
                 "customStyle1": "display-7",
-                "caption": "APARTAMENTO VM  \n<br>Local: Pinheirinho/Curitiba - PR <br>Interiores e Luminotécnico: Tekta arquitetura",
+                "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "APARTAMENTO VM-LAVANDERIA",
+                "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -688,24 +687,24 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "COZINHA AP VM",
+                "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "APARTAMENTO VM-LAVANDERIA",
+                "tags": "Creative",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/a3-1500x1667.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/a3-1500x1667-800x889.jpg",
+                "image": "@PROJECT_PATH@/assets/images/a3-1-1500x1667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/a3-1-1500x1667-800x889.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "COZINHA AP VM",
+                "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "APARTAMENTO VM-CLOSET/HOMME OFFICE",
+                "tags": "Animated",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -714,24 +713,24 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "CLOSET/HOMME OFFICE AP VM",
+                "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "APARTAMENTO VM-CLOSET/HOMME OFFICE",
+                "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/a5-1500x1071.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/a5-1500x1071-800x571.jpg",
+                "image": "@PROJECT_PATH@/assets/images/a5-1-1500x1071.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/a5-1-1500x1071-800x571.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "CLOSET/HOMME OFFICE AP VM",
+                "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "CASA AZ-COZINHA",
+                "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -740,11 +739,11 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "COZINHA RESIDÊNCIA AZK&nbsp;<br>Local: Vila Isabel/Curitiba - PR \n<br>Interiores e Luminotécnico: Tekta arquitetura",
+                "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "CASA AZ-COZINHA",
+                "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -753,11 +752,12 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "BANHEIRO AP ZEN",
+                "caption": "Type caption here",
                 "active": true
               }
             ]
-          }
+          },
+          "_anchor": "gallery3-1b"
         },
         {
           "alias": false,
