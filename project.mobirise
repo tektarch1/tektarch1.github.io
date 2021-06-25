@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SITE TEKTA",
-    "currentPage": "Como aproveitar melhor os espaços em apartamentos pequenos.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -933,7 +933,7 @@
         }
       ]
     },
-    "BLOG.html": {
+    "page1.html": {
       "settings": {
         "title": "BLOG",
         "order": 1
@@ -1361,7 +1361,7 @@
         }
       ]
     },
-    "Como aproveitar melhor os espaços em apartamentos pequenos.html": {
+    "page3.html": {
       "settings": {
         "title": "Como aproveitar melhor os espaços em apartamentos pequenos",
         "order": 2
